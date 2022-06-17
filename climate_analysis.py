@@ -1,3 +1,5 @@
+"""this is the climate_analysis scriot"""
+
 import sys
 import temp_conversion
 import signal
